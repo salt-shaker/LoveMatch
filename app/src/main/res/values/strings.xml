@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Love Match</string>
+    <string name="yourNameHint">Please enter your name.</string>
+    <string name="otherNameHint">Please enter other persons name.</string>
+    <string name="rOtherName">Other Persons Name</string>
+    <string name="rYourName">Your Name</string>
+    <string name="rLoveMeter">Love Meter</string>
+    <string name="rCompareButton">Comapre</string>
+
+
+</resources>
